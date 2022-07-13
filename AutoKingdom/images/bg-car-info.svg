@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 364 163" width="364" height="163">
+	<title>bg-car-info</title>
+	<defs>
+		<image  width="364" height="163" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWwAAACjCAMAAACZiNReAAAAAXNSR0IB2cksfwAAAGNQTFRF1aBB1aBB1aBB1aBB1aBB1aBB1aBB6MqY7das////6Myc1aBB1aBB1aBB1aBB6c2b79u36cyY58qT1aBB7NGj8Niz7NSq6tCh58mS69On6MqX68+j69Gq7dOs6s6f69Cm1aBBoO0oUQAAACF0Uk5T/+nY3eHMsow3/3vD0/rlfwiMocddGD9mpUyQXT83blC7TG4v3QAAAUxJREFUeJzt2EVyQlEARFHkE4O4K9n/KjOMYF/eo6nKOUu4o64ejcaTaV9NMzs6Pjn9N85m80nT9Iy1OB8VcJFusC+zErWGS2fYg8t042/pFNVdpQv/lI5RWTrvH+kcVaXjrkgHqeg63XZFukg9N+m0a6SbVJMOu1Y6SiXprBuks1Rxm666wV06TAX36agbpctUkE66RTpNcUXeo0rSbUpL99wuXaesh3TOHdJ9ikrH3CkdqKB0yt2m6UTFPKZTtvCUjlTIczpkK+lKhaQztpTOVMQhL+xf0qEKeEk3bO01nWqwt3TCDt7TsYZKB+wkHWugJt2vm3SuQRbpel2lgw0wTrfr7iPdrKdlOlw/6Wy9fKar9bZIp+tong4GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAftC6wF4/V6eU0EAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

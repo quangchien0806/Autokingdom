@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 862 71" width="862" height="71">
+	<title>decorate-bg-md-svg</title>
+	<defs>
+		<image  width="862" height="71" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA14AAABHAQMAAAAtJwR/AAAAAXNSR0IB2cksfwAAAAZQTFRFKSstAAAAYY2ExwAAAAJ0Uk5T/wDltzBKAAABS0lEQVR4nL3UsY3EIBRFUSMCQkqgFEqD0ijFJUw4gbV/R5bXA5gN73MDRxb/vm1TflZVUjg2e6uw8sF+RJa3D2ZNg8UTe2mwcmKHBrMTM4nlL6wqsHhhuwJLFya5kHJhkqztwhRZuz9McY7+xiqPxRtrSmznsaTE8o0JQis3JgjNbozffffF+Kr9F+OrlmKhwyqNxQ5rNJY6bKex3GF41VKsdBg+IdZh9IS4HqMnZMDoqr0SCwNWWSwOWGOxNGA7i+UBg6uWYmXA4AmxAWMnxI0YOyF+xNiqpViYsEpiccIaiaUJ20ksTxhatRQrE4ZOiE0YOSFuxsgJ8TNGVh0eWFVijcOiEksPDAwtK7HywMDQ7IFxobknxoXmF1ilsLjAGoWlBYadY1lg2DnaAqPO0a8w6kLiEoMeLS8x5tGcLTHm+NM/GHEi3Y/Z8QteOYfqgOnVNwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="img2" href="#img1" x="0" y="0"/>
+</svg>

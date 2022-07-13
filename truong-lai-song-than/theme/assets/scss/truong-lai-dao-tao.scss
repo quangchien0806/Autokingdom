@@ -1,0 +1,151 @@
+@import 'base';
+
+.educate-educations {
+    &:after {
+        display: none;
+    }
+}
+
+.items-question__pages {
+    border: solid 1px $oranges;
+    background-color: #FFFFFF;
+
+    &:not(:last-child) {
+        margin-bottom: 25px;
+    }
+
+    .titles-btn__pages {
+        background-color: $oranges;
+        padding: 5px;
+        display: flex;
+        color: #FFFFFF;
+
+        &:before {
+            content: "\f067";
+            font-family: "FontAwesome";
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            width: 17px;
+            height: 20px;
+            min-width: 17px;
+            background: url(../images/bg-items-educate.png) no-repeat center;
+            background-size: 100% 100%;
+            margin-right: 10px;
+            color: $oranges;
+            font-size: 10px;
+        }
+    }
+
+    .intros-question__pages {
+        padding: 15px 30px;
+        display: none;
+    }
+}
+
+.imgs-question__pages {
+    img {
+        width: 100%;
+    }
+}
+
+.bottom-question__pages {
+    background-color: $oranges;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px 0px;
+    margin-top: 80px;
+
+    .row {
+        align-items: center;
+    }
+
+    .btn-white__trans {
+        margin-left: auto;
+        margin-right: auto;
+        text-transform: uppercase;
+        border: solid 2px #FFFFFF;
+        border-radius: 5px;
+    }
+}
+
+.list-question__alls {
+    border: solid 1px #ebebeb;
+
+    li {
+        padding: 20px;
+
+        &:not(:last-child) {
+            border-bottom: solid 1px #ebebeb;
+        }
+    }
+}
+
+.box-list__educations {
+    .items-new__hots {
+        &:not(:last-child) {
+            margin-bottom: 50px;
+        }
+    }
+}
+
+.question-educations {
+    padding-top: 60px;
+}
+
+.box-educations__theorys {
+    .items-new__hots {
+        display: flex;
+
+        &:not(:last-child) {
+            margin-bottom: 70px;
+        }
+
+        .img-news__hots {
+            width: 265px;
+            margin-right: 25px;
+            margin-bottom: 0px;
+            border-radius: 3px;
+            overflow: hidden;
+
+            >a {
+                padding-top: 90%;
+            }
+        }
+
+        .intros-news__hots {
+            width: 100%;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+
+            .names-news__pages {
+                text-transform: uppercase;
+            }
+
+            .days-ups__news {
+                order: 2;
+            }
+
+            p {
+                order: 3;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 3 !important;
+                overflow: hidden;
+                max-height: 100% !important;
+            }
+
+            .see-more__news {
+                order: 4;
+            }
+        }
+
+        .see-more__news {
+            font-size: 14px;
+        }
+
+
+    }
+}

@@ -1,0 +1,127 @@
+@media (min-width: 230px) {
+    .review__container {
+        max-width: 800px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .page__review {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        color: #636167;
+    }
+    .page__review h1 {
+        color: #000;
+    }
+    .page__review h4 {
+        font-weight: 700;
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .page__review ul {
+        list-style: disc;
+        padding-left: 30px;
+        margin-bottom: 30px;
+    }
+    .page__review ul li {
+        font-size: 16px;
+    }
+    .page__review .highlight-b {
+        color: #201dfb;
+        font-weight: 700;
+    }
+    .page__review .highlight-r {
+        color: #fd1305;
+        font-weight: 700;
+    }
+    .page__review .title__form {
+        margin-bottom: 15px;
+        font-size: 25px;
+        line-height: 32px;
+        color: #404041;
+        font-weight: bold;
+        text-align: center;
+    }
+    .page__review form {
+        padding: 15px 0;
+        max-width: 340px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .page__review form {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .page__review form .input__box {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 20px;
+    }
+    .page__review form p {
+        font-size: 18px;
+        line-height: 32px;
+        color: #808184;
+        font-weight: bold;
+        font-family: "Arial";
+        max-width: 50%;
+        min-width: 150px;
+    }
+    .page__review form .input__review {
+        font-size: 14px;
+        color: #404041;
+        border-radius: 3px;
+        height: 28px;
+        background-color: #f1f1f2;
+        border: 1px solid #bbbdbf;
+        margin-right: auto;
+        padding: 0 10px;
+    }
+    .page__review form .input__review.name {
+        width: 140px;
+    }
+    .page__review form .input__review.sbd {
+        width: 100px;
+    }
+    .page__review .btn__next {
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+        border: none;
+        color: #fff;
+        font-size: 25px;
+        line-height: 40px;
+        padding: 0 20px;
+        height: 40px;
+        border-radius: 4px;
+        background-color: #d39c42;
+    }
+}
+
+@media (min-width: 480px) {
+    .page__review form .input__review.name {
+        width: 188px;
+    }
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {
+    .page__review ul {
+        margin-bottom: 50px;
+    }
+    .page__review form {
+        padding: 30px 0;
+    }
+}
+
+@media (min-width: 992px) {
+    .page__review {
+        margin-bottom: 60px;
+    }
+    .page__review form .input__box {
+        margin-bottom: 40px;
+    }
+}
+
+@media (min-width: 1200px) {}

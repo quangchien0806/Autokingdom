@@ -1,0 +1,75 @@
+.a {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  padding-top: 100%;
+}
+.a img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+/* not(:last-child) */
+/* :nth-child(1n+0) */
+.content-contacts__pages {
+  padding: 0px 50px;
+}
+
+.form-contacts__pages {
+  padding-right: 70px;
+}
+.form-contacts__pages .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.form-contacts__pages .row > [class^=col] {
+  margin-bottom: 10px;
+}
+.form-contacts__pages .btn-oranges__alls {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 150px;
+  font-size: 18px;
+  border-radius: 0px;
+}
+
+.items-contacts__pages {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.items-contacts__pages:not(:last-child) {
+  margin-bottom: 40px;
+}
+.items-contacts__pages img {
+  width: 50px;
+  height: 50px;
+  border-radius: 1000px;
+  margin-right: 15px;
+}
+.items-contacts__pages .intros-contacts__items {
+  width: 100%;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.phone-contacts__pages {
+  color: #EC1C24;
+}
+
+.mails-contacts__pages {
+  color: #58595B;
+}
